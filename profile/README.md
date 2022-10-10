@@ -3,23 +3,9 @@
             alt="quantum-llc" /> 
             
 <hr>
-<h3 align="center">Hey!!</h3>
+<h3 align="center">Hey!</h3>
 <h4 align="center">This is the official GitHub for Quantum Development</h4>
 <hr>
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://dev.to/ziue" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="ziue" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/https://www.youtube.com/c/cheatingziue" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="https://www.youtube.com/c/cheatingziue" height="30" width="40" /></a>
-    <a href="https://discord.gg/MCpyPHC9Qu" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="MCpyPHC9Qu" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
