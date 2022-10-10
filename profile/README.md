@@ -1,7 +1,6 @@
-<img align="center" src="https://discord.c99.nl/widget/theme-1/351763589746393091.png"/>
 <img align="center"
             src="https://komarev.com/ghpvc/?username=quantum-llc&style=plastic"
-            alt="ziue" /> 
+            alt="quantum-llc" /> 
             
 <hr>
 <h3 align="center">Hey!!</h3>
