@@ -7,7 +7,7 @@
 <h4 align="center">This is the official GitHub for Quantum Development</h4>
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools we use:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
