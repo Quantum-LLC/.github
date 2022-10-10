@@ -4,24 +4,10 @@
             alt="ziue" /> 
             
 <hr>
-<h3 align="center">Hey! My name's ziue!</h3>
-<h3 align="center">I'm a passionate developer from Norway</h3>
+<h3 align="center">Hey!!</h3>
+<h4 align="center">This is the official GitHub for Quantum Development</h4>
 <hr>
 
-
-<h3 align="center">Trophies</h3>
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=quantum-llc&theme=onedark" alt="quantum-llc" />
-    </a> 
-</p>
-<h3 align="center">Stats</h3>
-<p>
-    <img align="center" alt="quantum-llc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quantum-llc&show_icons=true&hide_border=true&theme=radical" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quantum-llc&&theme=radical" alt="quantum-llc" />
-</p>
-
-<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
